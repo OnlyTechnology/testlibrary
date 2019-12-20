@@ -192,7 +192,7 @@ git fetch origin 会抓取克隆（或上一次抓取）后新推送的所有工
 
 
 [git fork使用](https://www.jianshu.com/p/d73dcee2d907)
-
+[fork项目申请合并到别人的远程分支](https://blog.csdn.net/ld326/article/details/81128551)
 
 
 
